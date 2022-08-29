@@ -1,12 +1,10 @@
 import React from "react"
 import "../components/HeaderSide/Header.css"
 import Workemail from "../components/Workemail"
-import "antd/dist/antd.css"
 import Layout from "../components/Layout/Layout"
 import CardHeading from "../components/Companies/CardHeading"
 import Cardadd from "../components/Companies/Cardadd"
 import NewCards from "../components/Companies/NewCards"
-import "bootstrap/dist/css/bootstrap.min.css"
 import ProgressCard from "../components/Companies/ProgressCard"
 import Bluecard from "../components/Companies/Bluecard"
 

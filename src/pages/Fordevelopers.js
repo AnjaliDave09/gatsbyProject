@@ -6,7 +6,6 @@ import Offercard from "../components/Developers/Offercard"
 import Cardshow from "../components/Developers/Cradshow"
 import Cardline from "../components/Developers/cardline"
 import Newdevcard from "../components/Developers/Newdevcard"
-import "antd/dist/antd.css"
 import Checkbox from "../components/Developers/Checkbox"
 
 const Fordevelopers = () => {
