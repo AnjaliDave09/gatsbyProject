@@ -1,0 +1,38 @@
+.heading1{
+    width: 1512px;
+    height: 683px;
+    left: 0px;
+    top: 0px;    
+  }
+  .headingdiv {
+    width: 551px;
+    height: 351px;
+    left: 120px;
+    margin-top: 12px;
+    margin-left: 10px; 
+    float: left;
+    /* top: 212px; */
+  }
+  .setext1{
+    /* width: 488px;
+    height: 140px; */
+    /* left: 120px;
+    top: 212px; */
+    margin-top: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 110.02%;
+    float: left;
+}
+
+  .headingdiv2 {
+    width: 259.85px;
+    height: 212.12px;
+    left: 1024px;
+    /* top: 290px; */
+    margin-left: 1024px;
+    margin-top: 290px;
+    float: right;
+  }
