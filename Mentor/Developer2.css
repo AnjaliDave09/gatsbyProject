@@ -1,0 +1,517 @@
+@import url('https://fonts.googleapis.com/css?family=Inter&display=swap');
+.container {
+    display: 'flex';
+}
+.text1 {
+    width: 488px;
+    height: 186px;
+    margin-top: 100px;
+    margin-left: -50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 110.02%;
+    color: #0B101B;
+    font-display: flex;
+  }
+  .text2 {
+    width: 392px;
+    height: 72px;
+    margin-top: 30px;
+    margin-left: -50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    color: #0B101B;
+    display: flex;
+}
+.logo1 {
+    margin-left: 1150px;
+    margin-top: -360px;
+    right: 15.09%;
+    top: 20%;
+    bottom: 60.48%;
+}
+.applybtn {
+        flex-direction: row;      
+        padding: 10px 5px;
+        width: 190px;
+        height: 92px;
+        margin-top: 10px;
+        margin-left: -55px;
+}
+
+.text3 {
+    width: 626px;
+    height: 250px;
+    margin-top: 270px;
+    margin-left: 350px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 110.02%;
+    text-align: center;
+}
+.text4 {
+    width: 459px;
+    height: 24px;
+    margin-top: -100px;
+    margin-left: 430px;
+    left: 1040px;
+    top: 940px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+}
+.mentor {
+   margin-top: 100px;
+   margin-left: 10px;
+}
+.mentor1 {
+    margin-top: -29px;
+    margin-left: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    color: #0B101B;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.mentortext1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 45px;
+    margin-top: 15px;
+    width: 487px;
+    height: 48px; 
+}
+.left {
+    margin-left: 850px;
+}
+.top{
+    margin-top: -400px;
+}
+
+.Col {
+    margin-top: 20px;
+    margin-right: 20%;
+  }
+.Col1{
+    margin-top: -50px;
+    display: 'flex';
+    margin-left: 450px;
+}
+.Frame1 {
+    width: 303px;
+    height: 265px;
+    margin-left: -300px;
+}
+.Frame2 {
+    width: 303px;
+    height: 289px;
+    margin-left: -360px;
+}
+.Frame3 {
+    width: 303px;
+    height: 217px;
+    margin-left: -450px;
+}
+.Frame1 h2{
+    font-size: 28px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    margin-left: 50px;
+}
+.Frame1 h3 {
+    margin-top: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    width: 303px;
+    height: 120px;
+    color: #0B101B;
+}
+.Frame1 img {
+    margin-left: 100px;
+}
+.Frame2 h2{
+    font-size: 28px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    margin-left: 95px;
+}
+.Frame2 h3 {
+    margin-top: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    width: 303px;
+    height: 144px;
+}
+.Frame2 img {
+    margin-left: 100px;
+}
+.Frame3 h2{
+    margin-left: 70px;
+    font-size: 28px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+}
+.Frame3 h3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 40px;
+    width: 303px;
+    height: 72px;
+}
+.Frame3 img {
+ margin-left: 90px;
+}
+.BlueCard {
+    display: 'flex';
+    margin-top: 80px;
+    margin-left: -95px;
+}
+.BlueCard img {
+    width: 1512px;
+    height: 396px;
+}
+.BlueCard h2 {
+    margin-top: -320px;
+    margin-left: 190px;
+    width: 1056px;
+    height: 124px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 110.02%; 
+    text-align: center;
+    color: #FFFFFF;
+}
+.BlueCard h3 {
+    margin-left: 470px;
+    margin-top: 30px;
+    width: 523px;
+    height: 36px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.BlueCard Button{
+    margin-left: 640px;
+    margin-top: 25px; 
+}
+.footer {
+    display: 'flex';
+    width: 1512px;
+    height: 379px;
+    left: 0px;
+    top: 620px;
+}
+.footerlogo2{
+    display: 'flex';
+    margin-top: 200px;
+    left: 20%;
+    bottom: 0%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+}
+    
+.footer21{
+    display: 'flex';
+    margin-left: 270px;
+    margin-top: -30px;
+    left: 35%;
+    right: 67.79%;
+    top: 620%;
+    bottom: 48.55%;
+}
+    
+.footer22{
+    display: 'flex';
+    margin-left: 650px;
+    margin-top: -125px;
+    left: 49.11%;
+    right: 48.28%;
+    top: 620%;
+    bottom: 48.55%;
+}
+    
+.footer23{
+    display: 'flex';
+    margin-left: 1050px;
+    margin-top: -120px;
+}
+.footer {
+    width: 1512px;
+    height: 379px;
+    left: 0px;
+    top: 620px;
+}
+.footer :hover{
+      background-color: #0B101B;
+}
+.footerlogo2{
+    margin-top: 200px;
+    left: 20%;
+    bottom: 0%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+}
+.footer21{
+    margin-left: 270px;
+    margin-top: -30px;
+    left: 35%;
+    right: 67.79%;
+    top: 620%;
+    bottom: 48.55%;
+}  
+.footer22{
+    margin-left: 650px;
+    margin-top: -125px;
+    left: 49.11%;
+    right: 48.28%;
+    top: 620%;
+    bottom: 48.55%;
+}  
+.footer23{
+    margin-left: 1050px;
+    margin-top: -120px;
+}
+
+@media screen and (max-width: 480px) {
+     .text1{
+        font-weight: 700;
+        font-size: 36px;
+        width: 343px;
+        height: 120px;
+        margin-top: 100px;
+        margin-left: 80px;
+     }
+     .text2 {
+         font-weight: 300;
+         font-size: 14px;
+         width: 343px;
+         height: 34px;
+         margin-top: 10px;
+         line-height: 17px;
+         margin-left: 80px;
+     }
+    .logo1 {
+        display: none;
+     }
+    .text3 {
+        font-size: 28px;
+        width: 343px;
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+    .text4 {
+       font-size: 12px;
+       margin-top: -170px;
+       margin-left: 70px;
+       width: 253px;
+        height: 30px;
+    }
+    .mentor1 {
+        font-weight: 600;
+        font-size: 18px;
+        width: 104px;
+        height: 22px;
+    }
+    .mentortext1 {
+        font-weight: 300;
+        font-size: 14px;
+        width: 310px;
+        height: 34px;
+    }
+     .applybtn {
+        margin-top: 20px;
+        margin-left: 90px;
+    }
+    .left{
+        margin-left: 0px;
+    }
+    .top {
+        margin-top: 120px;
+    }
+    .Frame1 {
+        margin-top: -110px;
+        margin-left: -400px;
+    }
+    .Frame2 {
+        margin-top: 50px;
+        margin-left: -400px;
+    }
+    .Frame3 {
+        margin-top: 60px;
+        margin-left: -400px;
+    }
+    .BlueCard img {
+        width: 395px; 
+        height: 308px;
+        margin-left: 110px;
+    }
+    .BlueCard h2 {
+        width: 353px;
+        height: 93px;
+        font-weight: 700;
+        font-size: 28px;
+        margin-top: -260px;
+        margin-left: 125px;
+    }
+    .BlueCard h3 {
+        font-size: 12px;
+        margin-left: 150px;
+        width: 279px;
+        height: 15px;
+    }
+    .BlueCard Button {
+        margin-left: 200px;
+        width: 173.47px;
+        height: 39.85px;
+    }
+    .footerlogo2 {
+        margin-top: 100px;
+        display: block;
+    }
+    .footer21 {
+        margin-top: 200px;
+        margin-left: 30px;
+        display: block;
+    }
+    .footer22 {
+        margin-top: -280px;
+        margin-left: 30px;
+        display: block;
+    }
+    .footer23 {
+        margin-left: 320px;
+        margin-top: -120px;
+    }
+
+}
+@media  screen and (min-width: 768px) and (max-width: 1524px) {
+    .text1{
+        font-weight: 700;
+        font-size: 42px;
+        margin-top: 150px;
+        margin-left: 100px;
+     }
+     .text2 {
+        font-weight: 300;
+        font-size: 16px;
+        width: 343px;
+        height: 34px;
+        margin-top: -55px;
+        margin-left: 100px;
+     }
+     .applybtn {
+        margin-top: 40px;
+        margin-left: 85px;
+     }
+     .Col {
+        margin-top: -30px;
+        margin-left: -90px;
+     }
+     .Frame1 h3 {
+        font-size: 16px;
+     }
+     .Frame2 h3 {
+        font-size: 16px;
+     }
+     .Frame3 h3 {
+        font-size: 16px;
+     }
+     .Frame1 h2 {
+        font-size: 24px;
+     }
+     .Frame2 h2 {
+        font-size: 24px;
+     }
+     .Frame3 h2 {
+        font-size: 24px;
+     }
+     .logo1 {
+        margin-left: 950px;
+        margin-top: -280px;
+        right: 15.09%;
+        top: 20%;
+        bottom: 60.48%;
+     }
+     .text3 {
+         font-size: 34px;
+         margin-left: 320px;
+     }
+     .text4 {
+        font-size: 16px;
+        margin-top: -190px;
+        margin-left: 390px;
+     }
+     .mentor1 {
+        font-size: 22px;
+     }
+     .mentortext1 {
+        font-size: 14px;
+     }
+     .left{
+        margin-left: 650px;
+     }
+     /* .footerlogo2{
+        display: block;
+        margin-top: 50px;
+        margin-left: 150px;
+    }
+    .footer21 {
+        display: block;
+        margin-top: -150px;
+        margin-left: 50px;
+    }
+    .footer22 {
+        display: block;
+        margin-top: -150px;
+        margin-left: 290px;
+    }
+    .footer23 {
+        display: block;
+        margin-top: -120px;
+        margin-left: 100px;
+    } */
+}
+
