@@ -1,9 +1,7 @@
 import React from 'react'
 import '../Developers/developer.css'
-import "antd/dist/antd.css";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container } from 'react-bootstrap';
 
 const Cardline = () => (
